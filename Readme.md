@@ -6,11 +6,12 @@ I build **premium HTML/CSS/JS landing page templates** — no frameworks, no dep
 
 ## 🛒 Templates available
 
-| Template | Style | Price | Link |
-|----------|-------|-------|------|
-| **Nexora** | Dark SaaS · Charcoal & Yellow | $29 | [→ gumroad](https://devbyron.gumroad.com/l/nexora) |
-| **Solara** | Warm Agency · Beige & Burnt Orange | $29 | [→ gumroad](https://devbyron.gumroad.com/l/solara) |
-| *More soon...* | | | |
+| Template | Style | Price | Demo | Buy |
+|----------|-------|-------|------|-----|
+| **Nexora** | Dark SaaS · Charcoal & Yellow | $29 | [→ live demo](https://nexora-devbyron.netlify.app) | [→ gumroad](https://devbyron.gumroad.com/l/nexora) |
+| **Solara** | Warm Agency · Beige & Burnt Orange | $29 | [→ live demo](https://solara-devbyron.netlify.app) | [→ gumroad](https://devbyron.gumroad.com/l/solara) |
+| **Aura** | Portfolio · White & Black & Violet | $29 | [→ live demo](https://aura-devbyron.netlify.app) | [→ gumroad](https://devbyron.gumroad.com/l/aura) |
+| *More soon...* | | | | |
 
 ---
 
